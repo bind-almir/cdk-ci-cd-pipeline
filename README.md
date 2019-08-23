@@ -1,3 +1,7 @@
+**Create CI/CD pipeline with AWS CDK**
+
+Read more [here](https://almirzulic.com/posts/create-ci-cd-pipeline-with-aws-cdk/).
+
 # Useful commands
 
  * `npm run build`   compile typescript to js

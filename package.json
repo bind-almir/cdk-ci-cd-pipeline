@@ -16,7 +16,31 @@
     "aws-cdk": "^1.5.0"
   },
   "dependencies": {
+    "@aws-cdk/aws-certificatemanager": "^1.5.0",
+    "@aws-cdk/aws-cloudfront": "^1.5.0",
+    "@aws-cdk/aws-codepipeline": "^1.5.0",
+    "@aws-cdk/aws-codepipeline-actions": "^1.5.0",
+    "@aws-cdk/aws-route53": "^1.5.0",
+    "@aws-cdk/aws-route53-targets": "^1.5.0",
+    "@aws-cdk/aws-s3": "^1.5.0",
     "@aws-cdk/core": "^1.5.0",
     "source-map-support": "^0.5.9"
-  }
+  },
+  "keywords": [
+    "aws",
+    "cdk",
+    "ci",
+    "cd",
+    "angular",
+    "s3",
+    "cloudfront",
+    "codepipeline",
+    "acm",
+    "github",
+    "typescript",
+    "cloudformation"
+  ],
+  "author": "Almir Zulic",
+  "homepage": "http://almirzulic.com",
+  "license": "MIT"
 }
